@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Welcome+to+KI-DG`s+gitHub%20🙌❤️&fontSize=40&fontAlign=50&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=random&height=100&section=header&text=Welcome+to+KI-DG`s+gitHub%20🙌❤️&fontSize=40&fontAlign=50&fontAlignY=55)
 
 
 <!--
